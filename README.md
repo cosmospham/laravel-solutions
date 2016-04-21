@@ -21,4 +21,4 @@ Tất nhiên để thay đổi thói quen không phải là chuyện dễ dàng,
 ![](https://raw.githubusercontent.com/LaravelVietnam/laravel-solutions/master/star-and-watch-repo.png)
 
 ## Format của câu hỏi:
-//TODO
+[Nội dung]
